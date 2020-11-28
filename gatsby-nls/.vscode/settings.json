@@ -22,5 +22,5 @@
   "prettier.disableLanguages": [
     "javascript",
     "javascriptreact"
-  ],
+  ]
 }
